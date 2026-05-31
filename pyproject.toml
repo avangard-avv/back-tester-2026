@@ -6,8 +6,10 @@ authors = [
     {name = "CMF Team", email = "cmfteam2018@gmail.com"},
 ]
 dependencies = [
+    "matplotlib>=3.10.9",
     "pandas>=2.2.0",
     "pyarrow>=24.0.0",
+    "pytest>=9.0.3",
     "tqdm>=4.67.3",
 ]
 
